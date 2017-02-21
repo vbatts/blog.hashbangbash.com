@@ -1,6 +1,5 @@
 name = 'blog.hashbangbash.com'
-#baseURL = 'http://blog.hashbangbash.com'
-baseURL = 'http://ctvy7cy4fzqw76iy.onion'
+baseURL = 'http://blog.hashbangbash.com'
 description = 'a place for me to keep track of my
   revalations, or passing fancies at least'
 theme = "hyde"
