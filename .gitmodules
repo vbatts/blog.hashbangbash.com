@@ -1,0 +1,6 @@
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://git.thisco.de/vbatts/hugo-theme-dimension.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://git.thisco.de/vbatts/hugo-theme-hyde.git
