@@ -1,7 +1,7 @@
 ---
 title: /usr
 author: vbatts
-layout: page
+layout: single
 date: 2007-09-19T15:09:44+00:00
 aktt_notify_twitter:
   - no

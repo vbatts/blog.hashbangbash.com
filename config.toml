@@ -1,18 +1,19 @@
 name = 'blog.hashbangbash.com'
-baseURL = 'http://blog.hashbangbash.com'
+#baseURL = 'http://blog.hashbangbash.com'
+baseURL = 'http://ctvy7cy4fzqw76iy.onion'
 description = 'a place for me to keep track of my
   revalations, or passing fancies at least'
 theme = "hyde"
 #theme = "dimension"
-#[permalinks]
-  #post = '/:year/:month/:title/'
+[permalinks]
+  post = '/:year/:month/:title/'
 
 [params]
   title = "#!/bin/bash -- blog"
   description = 'a place for me to keep track of my
     revalations, or passing fancies at least'
-  logo = "fa-diamond"
-  copyright = "hashbangbash.com"
+  #logo = "fa-diamond"
+  #copyright = "hashbangbash.com"
 
 [[params.social]]
   medium = "twitter"
