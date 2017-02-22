@@ -5,8 +5,17 @@
 
   <div class="content container">
     <ul id="tags">
-        {{ range .Data.tags }}
-        <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+        {{ range $key, $taxonomy := .Site.Taxonomies.categories.ByCount }}
+        <li>{{ $taxonomy.Term }} ({{ $taxonomy.Count }})</li>
+        <ul>  
+          {{ range $taxonomy.Pages.ByDate.Reverse }}
+          <li hugo-nav="{{ .RelPermalink}}">
+            <span>
+              <a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+            </span>
+          </li>
+          {{ end }}
+        </ul>
         {{ end }}
     </ul>
   </div>

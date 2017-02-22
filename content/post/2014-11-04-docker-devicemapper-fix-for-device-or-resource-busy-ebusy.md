@@ -1,5 +1,5 @@
 ---
-title: 'docker: devicemapper fix for &#8220;device or resource busy&#8221; (EBUSY)'
+title: 'docker: devicemapper fix for `device or resource busy` (EBUSY)'
 author: vbatts
 layout: post
 date: 2014-11-04T23:17:16+00:00

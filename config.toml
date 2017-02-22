@@ -7,6 +7,12 @@ theme = "hyde"
   post = '/:year/:month/:title/'
 
 [[menu.main]]
+  name = "Article Tags"
+  pre = "<i class='fa fa-download'></i>"
+  url = "/tags"
+  weight = -400
+
+[[menu.main]]
   name = "Home"
   pre = "<i class='fa fa-download'></i>"
   url = "https://hashbangbash.com/"
@@ -50,4 +56,3 @@ theme = "hyde"
   medium = "github"
   icon = "github"
   link = "#"
-
