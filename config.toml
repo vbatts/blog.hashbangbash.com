@@ -1,10 +1,24 @@
-name = 'blog.hashbangbash.com'
 baseURL = 'http://blog.hashbangbash.com'
+languageCode = "en-us"
 theme = "hyde"
 #theme = "dimension"
+title = "#!bash blog"
+copyright = "Vincent Batts"
+
+[Author]
+  name = "Vincent Batts"
 
 [permalinks]
   post = '/:year/:month/:title/'
+  code = '/:filename/'
+
+[params]
+  title = '#!bash
+  blog'
+  description = 'a place for passing fancies'
+  twitter = 'https://twitter.com/vbatts'
+  github = 'https://github.com/vbatts/'
+  disqus = 'vbatts'
 
 [[menu.main]]
   name = "Article Tags"
@@ -29,30 +43,3 @@ theme = "hyde"
   pre = "<i class='fa fa-download'></i>"
   url = "https://twitter.com/vbatts/"
   weight = -100
-
-[params]
-  title = '#!bash
-  blog'
-  description = 'a place for passing fancies'
-  #logo = "fa-diamond"
-  #copyright = "hashbangbash.com"
-
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
-
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
