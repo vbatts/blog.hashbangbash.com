@@ -20,5 +20,5 @@ cheers, and i&#8217;m glad there are great people out there in the world
  [1]: http://download.srv.cs.cmu.edu/~pausch/
  [2]: http://www.cmu.edu/uls/journeys/randy-pausch/index.html
  [3]: http://www.alice.org/
- [4]: http://batts.mine.nu/pub/src/SlackBuilds/projects/alice/
- [5]: http://batts.mine.nu/downloads/slackpkgs/
+ [4]: http://hashbangbash.com/pub/src/SlackBuilds/projects/alice/
+ [5]: http://hashbangbash.com/downloads/slackpkgs/

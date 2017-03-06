@@ -14,7 +14,7 @@ tags:
   - ruby
 
 ---
-[<img src="http://blog-mindful.rhcloud.com/wp-content/uploads/2011/02/rbtree-graph1-300x186.png" alt="" title="rbtree-graph1" width="300" height="186" class="aligncenter size-medium wp-image-186" />][1]
+[<img src="/img/2011/02/rbtree-graph1-300x186.png" alt="" title="rbtree-graph1" width="300" height="186" class="aligncenter size-medium wp-image-186" />][1]
 
 After hearing a bit about the improvements in the [Rubinius][2] ruby interpreter, I decided to test a handful of the interpreters against the Red-Black tree insertion script I last posted about.
   
@@ -45,8 +45,8 @@ Take care,
   
 vb
 
- [1]: http://blog-mindful.rhcloud.com/wp-content/uploads/2011/02/rbtree-graph1.png
+ [1]: /img/2011/02/rbtree-graph1.png
  [2]: http://rubini.us/
- [3]: http://blog.hashbangbash.com/2011/02/kick-off-of-playing-with-trees/
+ [3]: /2011/02/kick-off-of-playing-with-trees/
  [4]: http://rvm.beginrescueend.com/
- [5]: http://blog-mindful.rhcloud.com/wp-content/uploads/2011/02/ruby-benchmark.ods
+ [5]: /img/2011/02/ruby-benchmark.ods

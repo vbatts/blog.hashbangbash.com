@@ -39,7 +39,7 @@ It extracts to ﻿&#8221;devkitPPC/&#8221;. You can put this where every you&#82
   export PATH=$PATH:$DEVKITPPC/bin
 </div>
 
-The manpath is for me <img src="http://blog.hashbangbash.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+The manpath is for me <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 From the portlibs folder you&#8217;ll need everything with &#8220;ppc&#8221; in the name. The [Wii&#8217;s proccesor is an IBM PowerPC chipset][3]{#aptureLink_ouZn6OyvJY}
 

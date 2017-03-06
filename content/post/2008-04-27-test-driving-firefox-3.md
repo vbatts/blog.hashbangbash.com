@@ -15,7 +15,7 @@ i&#8217;m testing driving it on my slackware-current machine, and packaged it us
 
 then only relative script/diff changes were for the version change.
 
-<a href="http://batts.mine.nu/downloads/slackpkgs/mozilla-firefox-3.0b5-i686-1.tgz" title="mozilla-firefox-3.0b5-i686-1.tgz" target="_blank">mozilla-firefox-3.0b5-i686-1.tgz </a>
+<a href="http://hashbangbash.com/downloads/slackpkgs/mozilla-firefox-3.0b5-i686-1.tgz" title="mozilla-firefox-3.0b5-i686-1.tgz" target="_blank">mozilla-firefox-3.0b5-i686-1.tgz </a>
 
 cheers
 

@@ -17,7 +17,7 @@ categories:
   - slackware
 
 ---
-In <a href="http://carroll.cac.psu.edu/pub/linux/distributions/slackware/slackware64-current/" target="_blank">slackware-current</a> as of 2010-02-23,  the traditional command used for very basic archive conversion of RPMs into a TAR&#8217;d.Gzip&#8217;d archive, just got a hint of flare. <img src="http://blog.hashbangbash.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+In <a href="http://carroll.cac.psu.edu/pub/linux/distributions/slackware/slackware64-current/" target="_blank">slackware-current</a> as of 2010-02-23,  the traditional command used for very basic archive conversion of RPMs into a TAR&#8217;d.Gzip&#8217;d archive, just got a hint of flare. <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Normal usage is typically for easily converting an RPM that you&#8217;d like to review, like a &#8216;src&#8217; RPM.
 

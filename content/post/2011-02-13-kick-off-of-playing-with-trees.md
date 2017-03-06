@@ -30,13 +30,13 @@ The insertion graphed was an O(N) climb. For doubling the number of nodes to be 
   
 which resulted in a time climb of 
   
-[<img src="http://blog-mindful.rhcloud.com/wp-content/uploads/2011/02/graph1-300x263.png" alt="" title="graph1" width="300" height="263" />][2]
+[<img src="/img/2011/02/graph1-300x263.png" alt="" title="graph1" width="300" height="263" />][2]
   
 
   
 Another interesting observation was the logarithmic oscillations of the depth of the left most leg. 
   
-[<img src="http://blog-mindful.rhcloud.com/wp-content/uploads/2011/02/graph2-300x170.png" alt="" title="graph2" width="300" height="170" />][3] 
+[<img src="/img/2011/02/graph2-300x170.png" alt="" title="graph2" width="300" height="170" />][3] 
 
 At any rate, enjoy and feel free to send your thoughts.
   
@@ -45,5 +45,5 @@ Take care,
 vb
 
  [1]: http://www.google.com/search?q=red+black+trees+filetype:pdf
- [2]: http://blog-mindful.rhcloud.com/wp-content/uploads/2011/02/graph1.png
- [3]: http://blog-mindful.rhcloud.com/wp-content/uploads/2011/02/graph2.png
+ [2]: /img/2011/02/graph1.png
+ [3]: /img/2011/02/graph2.png

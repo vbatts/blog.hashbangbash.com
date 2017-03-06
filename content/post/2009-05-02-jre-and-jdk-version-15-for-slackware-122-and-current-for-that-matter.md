@@ -20,5 +20,5 @@ enjoy,
 
 vb
 
- [1]: http://blog.hashbangbash.com/pub/src/SlackBuilds/projects/jdk-1.5/
- [2]: http://blog.hashbangbash.com/pub/src/SlackBuilds/projects/jre-1.5/
+ [1]: /pub/src/SlackBuilds/projects/jdk-1.5/
+ [2]: /pub/src/SlackBuilds/projects/jre-1.5/

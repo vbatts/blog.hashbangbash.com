@@ -31,7 +31,7 @@ And I have packages built for slackware-current and slackware64-current <a href=
 
 
 
-Again, these are built on the -current development branch, so use at your own risk. <img src="http://blog.hashbangbash.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Again, these are built on the -current development branch, so use at your own risk. <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 
 

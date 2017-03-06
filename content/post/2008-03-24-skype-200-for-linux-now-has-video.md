@@ -22,5 +22,5 @@ snapshot
 [![skype options][2]][3]
 
  [1]: http://www.skype.com/download/skype/linux/choose/
- [2]: http://blog.batts.mine.nu/wp-content/uploads/2008/03/snapshot2.thumbnail.jpg
- [3]: http://blog.batts.mine.nu/wp-content/uploads/2008/03/snapshot2.jpg "skype options"
+ [2]: /img/2008/03/snapshot2.thumbnail.jpg
+ [3]: /img/2008/03/snapshot2.jpg "skype options"

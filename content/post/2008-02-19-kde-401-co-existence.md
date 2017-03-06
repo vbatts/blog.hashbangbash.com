@@ -16,7 +16,7 @@ for any who are interested,
   
 the SlackBuilds for kde-4.0.1 on Slackware-12.0 (and -current) are pretty well stabilized.
   
-you can check it out with svn from <http://batts.mine.nu/pub/src/SlackBuilds/kde4/>
+you can check it out with svn from <http://hashbangbash.com/pub/src/SlackBuilds/kde4/>
   
 and its up to you to download the kde and deps source 😉
   

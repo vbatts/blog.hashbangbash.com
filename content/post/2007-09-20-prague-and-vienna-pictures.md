@@ -2,6 +2,7 @@
 title: Prague and Vienna Pictures
 author: vbatts
 layout: post
+draft: true
 date: 2007-09-20T20:18:02+00:00
 url: /2007/09/prague-and-vienna-pictures/
 categories:
@@ -13,4 +14,4 @@ a good friend of mine, from Minsk, Belarus, just uploaded recent pictures of a t
   
 right now they are [here][1]
 
- [1]: http://batts.mine.nu/pictures/vadim/
+ [1]: http://hashbangbash.com/pictures/vadim/

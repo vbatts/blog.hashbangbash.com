@@ -10,7 +10,7 @@ categories:
   - Projects
 
 ---
-<strike>[http://batts.mine.nu/downloads/slackpkgs/kde4.0.0/][1]</strike>
+<strike>[http://hashbangbash.com/downloads/slackpkgs/kde4.0.0/][1]</strike>
 
 check it out, and tell me where it breaks. i can not be responsible for this breaking any kind of your install, but if if does, do tell 😉
 
@@ -24,4 +24,4 @@ i have moved these packages to  <a href="http://cardinal.lizella.net/~vbatts/kd
 
 cheers ! and happy hacking
 
- [1]: http://batts.mine.nu/downloads/slackpkgs/kde4.0.0/ "http://batts.mine.nu/downloads/slackpkgs/kde4.0.0/"
+ [1]: http://hashbangbash.com/downloads/slackpkgs/kde4.0.0/ "http://hashbangbash.com/downloads/slackpkgs/kde4.0.0/"

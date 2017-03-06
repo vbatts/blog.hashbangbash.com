@@ -237,7 +237,7 @@ Explanation of events here:
   
 Then BEHOLD!
   
-[<img src="http://blog-mindful.rhcloud.com/wp-content/uploads/2011/04/logo_slk_clut224.gif" alt="" title="logo_slk_clut224" width="80" height="80" class="alignnone size-full wp-image-225" />][2] 
+[<img src="/img/2011/04/logo_slk_clut224.gif" alt="" title="logo_slk_clut224" width="80" height="80" class="alignnone size-full wp-image-225" />][2] 
 
 
 
@@ -246,4 +246,4 @@ Take care,
 vb
 
  [1]: http://connie.slackware.com/~vbatts/things/linux-2.6.37.6-logo_slk.patch.gz
- [2]: http://blog-mindful.rhcloud.com/wp-content/uploads/2011/04/logo_slk_clut224.gif
+ [2]: /img/2011/04/logo_slk_clut224.gif

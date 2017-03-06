@@ -27,4 +27,4 @@ cheers
 vb
 
  [1]: http://wiki.colar.net/tethering_with_blackberry_pearl_on_linux
- [2]: http://batts.mine.nu/pub/src/SlackBuilds/
+ [2]: http://hashbangbash.com/pub/src/SlackBuilds/

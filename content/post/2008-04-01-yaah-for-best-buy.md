@@ -13,8 +13,8 @@ tonight while browsing for what laptops are currently available, i see another e
 
 give a Best Buy an encouraging pat on the back.
 
- [1]: http://blog.batts.mine.nu/wp-content/uploads/2008/04/snapshot5.thumbnail.jpg
- [2]: http://blog.batts.mine.nu/wp-content/uploads/2008/04/snapshot5.jpg "Best_Buy-OS"
+ [1]: /img/2008/04/snapshot5.thumbnail.jpg
+ [2]: /img/2008/04/snapshot5.jpg "Best_Buy-OS"
  [3]: http://www.bestbuy.com/site/olspage.jsp?id=abcat0502000&type=category
- [4]: http://blog.batts.mine.nu/wp-content/uploads/2008/04/snapshot6.thumbnail.jpg
- [5]: http://blog.batts.mine.nu/wp-content/uploads/2008/04/snapshot6.jpg "Best_Buy-Eee"
+ [4]: /img/2008/04/snapshot6.thumbnail.jpg
+ [5]: /img/2008/04/snapshot6.jpg "Best_Buy-Eee"

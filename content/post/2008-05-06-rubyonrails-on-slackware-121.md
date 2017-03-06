@@ -18,11 +18,11 @@ to have a sandbox for my exploration, i had to get certain aspects of this worki
 
 :: fcgi
   
-i have made available a SlackBuild to use for fastCGI and mod_fcgi, on <http://batts.mine.nu/pub/src/SlackBuilds/fcgi/>, so for this from your command line do 
+i have made available a SlackBuild to use for fastCGI and mod_fcgi, on <http://hashbangbash.com/pub/src/SlackBuilds/fcgi/>, so for this from your command line do 
 
 <pre><blockquote>
   <code>
-  $> svn co http://batts.mine.nu/pub/src/SlackBuilds/fcgi/
+  $> svn co http://hashbangbash.com/pub/src/SlackBuilds/fcgi/
   $> cd fcgi/
   $> . fcgi.info &#038;&#038; wget $DOWNLOAD
   $> export $(grep DOWNLOAD README)
@@ -110,11 +110,11 @@ to have a sandbox for my exploration, i had to get certain aspects of this worki
 
 :: fcgi
   
-i have made available a SlackBuild to use for fastCGI and mod_fcgi, on <http://batts.mine.nu/pub/src/SlackBuilds/fcgi/>, so for this from your command line do 
+i have made available a SlackBuild to use for fastCGI and mod_fcgi, on <http://hashbangbash.com/pub/src/SlackBuilds/fcgi/>, so for this from your command line do 
 
 <pre><blockquote>
   <code>
-  $> svn co http://batts.mine.nu/pub/src/SlackBuilds/fcgi/
+  $> svn co http://hashbangbash.com/pub/src/SlackBuilds/fcgi/
   $> cd fcgi/
   $> . fcgi.info &#038;&#038; wget $DOWNLOAD
   $> export $(grep DOWNLOAD README)

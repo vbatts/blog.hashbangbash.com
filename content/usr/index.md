@@ -25,7 +25,7 @@ Previously:
   * McKesson HEV (formerly [Awarix][1] ) as a Senior Software Implementation Engineer. Deploying enterprise health care software, on Linux servers across the US and around the world.
   * [Compass Bank][2] in the Online Banking dept.
 
-On irc, usually irc.freenode.org, I&#8217;m vbatts. Say Hello. <img src="http://blog.hashbangbash.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+On irc, usually irc.freenode.org, I&#8217;m vbatts. Say Hello. <img src="/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Nerdy side note i&#8217;m registered linux user number 422,901 @ <http://counter.li.org/>
 

@@ -22,6 +22,6 @@ so the SlackBuilds are [wvdial][1] and [wvstreams][2], these are also served on 
   
 this makes it **much** more easy to connect, at least with [Sprint][3] it does.
 
- [1]: http://batts.mine.nu/pub/src/SlackBuilds/wvdial/
- [2]: http://batts.mine.nu/pub/src/SlackBuilds/wvstreams/
+ [1]: http://hashbangbash.com/pub/src/SlackBuilds/wvdial/
+ [2]: http://hashbangbash.com/pub/src/SlackBuilds/wvstreams/
  [3]: http://www.sprint.com/
