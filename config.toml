@@ -1,4 +1,4 @@
-baseURL = 'http://blog.hashbangbash.com/'
+baseURL = 'https://blog.hashbangbash.com/'
 languageCode = "en-us"
 theme = "hyde"
 #theme = "dimension"
