@@ -1,6 +1,7 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
-	url = https://git.thisco.de/vbatts/hugo-theme-dimension.git
+	url = https://github.com/sethmacleod/dimension.git
 [submodule "themes/hyde"]
 	path = themes/hyde
-	url = https://git.thisco.de/vbatts/hugo-theme-hyde.git
+	url = https://github.com/spf13/hyde.git
+
