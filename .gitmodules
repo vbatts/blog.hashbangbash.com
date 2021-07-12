@@ -1,6 +1,6 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
-	url = https://github.com/sethmacleod/dimension.git
+	url = https://github.com/myuhe/dimension.git
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = https://github.com/spf13/hyde.git
