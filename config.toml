@@ -1,6 +1,7 @@
 baseURL = 'https://blog.hashbangbash.com/'
 languageCode = "en-us"
-theme = "hyde"
+theme = "console"
+#theme = "hyde-hyde"
 title = "#!bash blog"
 copyright = "Vincent Batts"
 
@@ -12,12 +13,18 @@ copyright = "Vincent Batts"
   code = '/:filename/'
 
 [params]
-  title = '#!bash
-  blog'
+  title = '#!bash blog'
   description = 'a place for passing fancies'
-  twitter = 'https://twitter.com/vbatts'
-  github = 'https://github.com/vbatts/'
-  disqus = 'vbatts'
+
+[[params.social]]
+  name = 'github'
+  url = 'https://github.com/vbatts'
+
+[[params.social]]
+  name = 'mastodon'
+  url = 'https://fosstodon.org/@vbatts'
+
+#disqus = 'vbatts'
 
 [[menu.main]]
   name = "Article Tags"
@@ -32,13 +39,7 @@ copyright = "Vincent Batts"
   weight = -300
 
 [[menu.main]]
-  name = "Git"
+  name = "about"
   pre = "<i class='fa fa-download'></i>"
-  url = "https://github.com/vbatts/"
+  url = "https://github.com/vbatts/me"
   weight = -200
-
-[[menu.main]]
-  name = "Twitter"
-  pre = "<i class='fa fa-download'></i>"
-  url = "https://twitter.com/vbatts/"
-  weight = -100
