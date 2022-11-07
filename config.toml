@@ -43,3 +43,9 @@ copyright = "Vincent Batts"
   pre = "<i class='fa fa-download'></i>"
   url = "https://github.com/vbatts/me"
   weight = -200
+
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+            unsafe = true
+
