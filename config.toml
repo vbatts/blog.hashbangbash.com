@@ -1,7 +1,6 @@
 baseURL = 'https://blog.hashbangbash.com/'
 languageCode = "en-us"
 theme = "console"
-#theme = "hyde-hyde"
 title = "#!bash blog"
 copyright = "Vincent Batts"
 
