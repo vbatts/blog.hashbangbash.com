@@ -1,3 +1,10 @@
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	#url = https://github.com/htr3n/hyde-hyde
+	url = https://git.batts.cloud/vbatts/hugo-theme-hyde-hyde
 [submodule "themes/console"]
 	path = themes/console
 	url = https://git.batts.cloud/vbatts/hugo-theme-console.git
+[submodule "themes/gruv"]
+	path = themes/gruv
+	url = https://gitlab.com/avron/gruvhugo
