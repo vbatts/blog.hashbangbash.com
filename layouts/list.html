@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+{{ end }}
+</div>
+
+{{ end }}

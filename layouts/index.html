@@ -5,9 +5,11 @@
 <p>
 🧡 all y'all
 <ul> 
-	<li><a href="http://www.slackware.com/~vbatts/">slackware.com/~vbatts</a></li>
-	<li><a href="https://github.com/vbatts/me">github.com/vbatts/me</a></li>
-	<li><a href="https://fosstodon.org/@vbatts">@vbatts@fosstodon.org</a></li>
+	<li><a href="http://www.slackware.com/~vbatts/">xdg-open slackware.com/~vbatts</a></li>
+	<li><a href="https://github.com/vbatts/me">xdg-open github.com/vbatts/me</a></li>
+	<li><a href="https://fosstodon.org/@vbatts">toot @vbatts@fosstodon.org</a></li>
+	<li> <a href="tags/">cd tags/</a> </li>
+	<li> <a href="posts/">cd posts/</a> </li>
 </ul>
 </p>
 <br/>
@@ -15,7 +17,7 @@
 <h1>Latest posts</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/post" }}
+{{ with .Site.GetPage "/posts" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
