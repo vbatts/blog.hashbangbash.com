@@ -15,6 +15,7 @@ copyright = "Vincent Batts"
 [params]
   title = '#!bash blog'
   description = 'a place for passing fancies'
+  custom_css = ["css/override.css"]
 
 [[params.social]]
   name = 'github'
