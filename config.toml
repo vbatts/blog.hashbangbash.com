@@ -1,7 +1,6 @@
 baseURL = 'https://blog.hashbangbash.com/'
 languageCode = "en-us"
 theme = "console"
-#theme = "hyde-hyde"
 title = "#!bash blog"
 copyright = "Vincent Batts"
 
@@ -24,8 +23,6 @@ copyright = "Vincent Batts"
 [[params.social]]
   name = 'mastodon'
   url = 'https://fosstodon.org/@vbatts'
-
-#disqus = 'vbatts'
 
 [[menu.main]]
   name = "Article Tags"
