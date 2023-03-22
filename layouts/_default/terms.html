@@ -1,7 +1,4 @@
-{{ partial "head.html" . }}
-<body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
-
-{{ partial "sidebar.html" . }}
+{{ define "main" }}
 
   <div class="content container">
     <ul id="tags">
@@ -19,5 +16,5 @@
         {{ end }}
     </ul>
   </div>
-</body>
-</html>
+
+{{ end }}
