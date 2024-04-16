@@ -7,6 +7,10 @@ copyright = "Vincent Batts"
 [Author]
   name = "Vincent Batts"
 
+[outputs]
+  home = ['html','rss']
+  section = ['html','rss']
+
 [permalinks]
   post = '/:year/:month/:title/'
   code = '/:filename/'
