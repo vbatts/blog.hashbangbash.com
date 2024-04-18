@@ -3,7 +3,7 @@
   <div class="content container">
     <ul id="tags">
         {{ range $key, $taxonomy := .Site.Taxonomies.categories.ByCount }}
-        <li>{{ $taxonomy.Term }} ({{ $taxonomy.Count }})</li>
+        <li>{{ $taxonomy.Term }} ({{ $taxonomy.Count }})
         <ul>  
           {{ range $taxonomy.Pages.ByDate.Reverse }}
           <li hugo-nav="{{ .RelPermalink}}">
@@ -13,6 +13,7 @@
           </li>
           {{ end }}
         </ul>
+        </li>
         {{ end }}
     </ul>
   </div>
