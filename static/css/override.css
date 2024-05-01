@@ -31,7 +31,8 @@
 }
 
 :root {
-    --global-font-size: 16px;
+    --global-font-size: medium;
+    --global-footer-font-size: x-small;
     --global-font-color: #E58F48;
     --font-color: #E58F48;
     --invert-font-color: #151515;
@@ -171,6 +172,7 @@ figure {
     padding-top: 10px;;
     border-top: 1px solid var(--secondary-color);
     color: var(--global-font-color);
+    font-size: var(--global-footer-font-size);
 }
 
 .image-grid {
@@ -279,6 +281,7 @@ figure {
 
     .footer {
         margin-top: 50px;
-        padding-top: 5px;;
+        padding-top: 5px;
+    	font-size: var(--global-footer-font-size);
     }
 }
