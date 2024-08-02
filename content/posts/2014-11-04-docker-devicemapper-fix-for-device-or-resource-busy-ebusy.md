@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2014-11-04T23:17:16+00:00
 url: /2014/11/docker-devicemapper-fix-for-device-or-resource-busy-ebusy/
-categories:
+tags:
   - code
   - Linux
   - Projects

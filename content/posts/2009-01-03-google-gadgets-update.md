@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-01-03T20:15:10+00:00
 url: /2009/01/google-gadgets-update/
-categories:
+tags:
   - Community
   - ISV
   - Projects

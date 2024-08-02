@@ -3,7 +3,7 @@ title: adventures of wireguard peer for a single port service
 author: vbatts
 layout: post
 date: 2022-12-17T11:56:00+00:00
-categories:
+tags:
   - Linux
 tags:
   - docker

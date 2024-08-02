@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-02-04T01:27:26+00:00
 url: /2008/02/averatec-3250-slackware-120-to-slackware-current/
-categories:
+tags:
   - Community
   - Linux
 

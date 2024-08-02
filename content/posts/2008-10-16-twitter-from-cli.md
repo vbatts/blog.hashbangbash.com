@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-10-17T00:29:09+00:00
 url: /2008/10/twitter-from-cli/
-categories:
+tags:
   - Linux
   - Projects
   - slackware

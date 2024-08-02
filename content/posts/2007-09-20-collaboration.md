@@ -5,9 +5,9 @@ layout: post
 draft: true
 date: 2007-09-20T19:49:30+00:00
 url: /2007/09/collaboration/
-categories:
+tags:
   - ISV
-  - Linux
+  - linux
 
 ---
 one of my bosses likes to stay keen of new services that could enable our linux based company, and platform independent collaboration has been a weak spot for Linux&#8217;s .

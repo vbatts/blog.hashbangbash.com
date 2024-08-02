@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-05-25T20:35:40+00:00
 url: /2009/05/openofficeorg-310-on-dell-mini-9-with-ubuntu-8041/
-categories:
+tags:
   - Community
   - ISV
   - Linux

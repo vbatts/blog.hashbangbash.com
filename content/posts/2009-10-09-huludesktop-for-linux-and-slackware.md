@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-10-09T18:08:53+00:00
 url: /2009/10/huludesktop-for-linux-and-slackware/
-categories:
+tags:
   - ISV
   - Linux
   - slackware

@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-10-09T17:54:05+00:00
 url: /2009/10/kde-4-3-2-and-koffice-2-0-83-for-slackware64-current/
-categories:
+tags:
   - Community
   - Life
   - slackware

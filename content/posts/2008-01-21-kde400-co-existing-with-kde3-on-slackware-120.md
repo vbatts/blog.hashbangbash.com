@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-01-22T03:49:29+00:00
 url: /2008/01/kde400-co-existing-with-kde3-on-slackware-120/
-categories:
+tags:
   - Community
   - Linux
   - Projects

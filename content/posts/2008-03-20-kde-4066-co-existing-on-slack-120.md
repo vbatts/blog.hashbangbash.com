@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-03-20T14:40:15+00:00
 url: /2008/03/kde-4066-co-existing-on-slack-120/
-categories:
+tags:
   - Community
   - Linux
   - Projects

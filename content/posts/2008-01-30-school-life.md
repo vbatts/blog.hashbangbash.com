@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-01-31T01:59:59+00:00
 url: /2008/01/school-life/
-categories:
+tags:
   - Beautiful
   - Life
 

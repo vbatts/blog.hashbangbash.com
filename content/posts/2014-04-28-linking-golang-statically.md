@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2014-04-28T15:42:05+00:00
 url: /2014/04/linking-golang-statically/
-categories:
+tags:
   - code
 
 ---

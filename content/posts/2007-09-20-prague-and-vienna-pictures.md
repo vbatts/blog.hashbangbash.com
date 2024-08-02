@@ -5,7 +5,7 @@ layout: post
 draft: true
 date: 2007-09-20T20:18:02+00:00
 url: /2007/09/prague-and-vienna-pictures/
-categories:
+tags:
   - Beautiful
   - Pictures
 

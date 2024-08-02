@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-07-10T06:09:46+00:00
 url: /2008/07/social-lite-junkies/
-categories:
+tags:
   - Community
   - ISV
   - Linux

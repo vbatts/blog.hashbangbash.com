@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-07-12T06:30:15+00:00
 url: /2008/07/more-flocking/
-categories:
+tags:
   - Community
   - Linux
   - slackware

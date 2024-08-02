@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-07-16T16:24:05+00:00
 url: /2008/07/kde4-rc1-on-slackware-121-current-4098/
-categories:
+tags:
   - Community
   - Linux
   - Projects

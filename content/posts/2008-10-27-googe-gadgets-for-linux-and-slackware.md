@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-10-27T15:31:55+00:00
 url: /2008/10/googe-gadgets-for-linux-and-slackware/
-categories:
+tags:
   - Linux
   - slackware
 

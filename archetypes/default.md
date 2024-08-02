@@ -4,6 +4,5 @@ Description = ""
 draft = true
 date = '{{ .Date }}'
 Tags = []
-Categories = []
 menu = "posts"
 +++

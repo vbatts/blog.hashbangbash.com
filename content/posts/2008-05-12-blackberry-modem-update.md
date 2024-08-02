@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-05-13T03:57:34+00:00
 url: /2008/05/blackberry-modem-update/
-categories:
+tags:
   - Community
   - ISV
   - Linux

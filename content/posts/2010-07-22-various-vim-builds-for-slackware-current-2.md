@@ -7,7 +7,7 @@ url: /2010/07/various-vim-builds-for-slackware-current-2/
 aktt_notify_twitter:
   - no
   - no
-categories:
+tags:
   - Linux
   - Projects
   - slackware

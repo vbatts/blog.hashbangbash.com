@@ -7,7 +7,7 @@ url: /2010/09/getting-started-with-compiling-wii-apps-in-linux/
 aktt_notify_twitter:
   - no
   - no
-categories:
+tags:
   - Community
   - ISV
   - Linux

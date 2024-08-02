@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-10-16T22:15:38+00:00
 url: /2008/10/new-old-stuff/
-categories:
+tags:
   - Beautiful
   - Life
   - thoughts

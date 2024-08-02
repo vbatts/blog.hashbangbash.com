@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-05-17T20:03:52+00:00
 url: /2008/05/enjoyable/
-categories:
+tags:
   - Beautiful
   - Life
   - Pictures

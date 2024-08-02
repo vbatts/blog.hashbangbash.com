@@ -7,7 +7,7 @@ url: /2010/11/candle-in-the-darkness/
 aktt_notify_twitter:
   - no
   - no
-categories:
+tags:
   - Beautiful
   - Life
 

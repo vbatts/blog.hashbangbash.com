@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2007-10-21T02:33:33+00:00
 url: /2007/10/personal-experiences/
-categories:
+tags:
   - Beautiful
 
 ---

@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-10-27T03:48:34+00:00
 url: /2008/10/google-desktop-for-slackware/
-categories:
+tags:
   - Community
   - Linux
   - slackware

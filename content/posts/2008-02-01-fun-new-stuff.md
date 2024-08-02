@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-02-01T23:06:11+00:00
 url: /2008/02/fun-new-stuff/
-categories:
+tags:
   - Community
   - Life
 

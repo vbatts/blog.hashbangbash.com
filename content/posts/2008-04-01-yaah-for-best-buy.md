@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-04-01T22:20:56+00:00
 url: /2008/04/yaah-for-best-buy/
-categories:
+tags:
   - ISV
   - Linux
 

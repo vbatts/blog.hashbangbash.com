@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-02-19T12:52:50+00:00
 url: /2008/02/kde-401-co-existence/
-categories:
+tags:
   - Community
   - Linux
   - Projects

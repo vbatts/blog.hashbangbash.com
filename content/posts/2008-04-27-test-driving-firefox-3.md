@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-04-27T20:46:19+00:00
 url: /2008/04/test-driving-firefox-3/
-categories:
+tags:
   - Community
   - Linux
 

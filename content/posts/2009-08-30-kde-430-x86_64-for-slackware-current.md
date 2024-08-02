@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-08-30T23:50:53+00:00
 url: /2009/08/kde-430-x86_64-for-slackware-current/
-categories:
+tags:
   - Projects
 tags:
   - linux slackware

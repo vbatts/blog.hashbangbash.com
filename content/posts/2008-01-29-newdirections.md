@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-01-29T05:37:26+00:00
 url: /2008/01/newdirections/
-categories:
+tags:
   - Life
 
 ---

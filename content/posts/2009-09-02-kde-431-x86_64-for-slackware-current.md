@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-09-02T13:47:40+00:00
 url: /2009/09/kde-431-x86_64-for-slackware-current/
-categories:
+tags:
   - Community
   - Linux
   - slackware

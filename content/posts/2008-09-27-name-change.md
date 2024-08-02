@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-09-27T18:17:08+00:00
 url: /2008/09/name-change/
-categories:
+tags:
   - Beautiful
   - Life
   - Projects

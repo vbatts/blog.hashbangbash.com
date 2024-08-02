@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-01-16T05:09:26+00:00
 url: /2009/01/kde-4196-for-slackware-current/
-categories:
+tags:
   - Community
   - Linux
   - Projects

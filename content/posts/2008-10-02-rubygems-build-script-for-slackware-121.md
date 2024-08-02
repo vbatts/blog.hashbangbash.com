@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-10-02T21:10:24+00:00
 url: /2008/10/rubygems-build-script-for-slackware-121/
-categories:
+tags:
   - Community
   - Linux
   - slackware

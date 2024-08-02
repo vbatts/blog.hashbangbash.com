@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2007-10-27T14:11:01+00:00
 url: /2007/10/kde4-on-slack12-in-progress-take-2/
-categories:
+tags:
   - Community
   - Linux
   - Projects

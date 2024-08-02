@@ -7,7 +7,7 @@ url: /2011/04/more-1337-for-your-slackware-13-37-release/
 aktt_notify_twitter:
   - no
   - no
-categories:
+tags:
   - Linux
   - slackware
 tags:

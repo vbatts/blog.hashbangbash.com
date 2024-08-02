@@ -7,7 +7,7 @@ url: /2011/01/a-point-and-clicky-ruby-addition-dobbage/
 aktt_notify_twitter:
   - no
   - no
-categories:
+tags:
   - Community
   - Projects
   - slackware

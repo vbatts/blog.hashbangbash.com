@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-01-14T05:30:48+00:00
 url: /2009/01/so-long-twitter/
-categories:
+tags:
   - Community
   - Life
 

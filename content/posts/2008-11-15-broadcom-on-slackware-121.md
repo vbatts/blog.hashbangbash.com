@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-11-15T16:52:19+00:00
 url: /2008/11/broadcom-on-slackware-121/
-categories:
+tags:
   - Linux
   - slackware
 

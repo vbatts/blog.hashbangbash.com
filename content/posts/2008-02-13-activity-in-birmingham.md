@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-02-13T10:52:25+00:00
 url: /2008/02/activity-in-birmingham/
-categories:
+tags:
   - Community
   - Linux
 

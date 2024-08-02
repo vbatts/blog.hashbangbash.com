@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-05-06T10:33:03+00:00
 url: /2008/05/rubyonrails-on-slackware-121/
-categories:
+tags:
   - Community
   - Linux
   - Projects

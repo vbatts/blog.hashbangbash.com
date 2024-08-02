@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-09-28T02:20:09+00:00
 url: /2008/09/new-code-browser/
-categories:
+tags:
   - Community
   - Linux
   - Projects

@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-09-21T00:25:20+00:00
 url: /2008/09/thank-you-randy-pausch/
-categories:
+tags:
   - Beautiful
   - Community
   - Life

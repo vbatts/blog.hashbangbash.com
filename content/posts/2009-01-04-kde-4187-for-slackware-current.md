@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-01-04T16:36:55+00:00
 url: /2009/01/kde-4187-for-slackware-current/
-categories:
+tags:
   - Community
   - Linux
   - slackware

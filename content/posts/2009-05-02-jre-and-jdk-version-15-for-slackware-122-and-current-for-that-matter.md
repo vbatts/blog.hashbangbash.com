@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2009-05-02T21:41:41+00:00
 url: /2009/05/jre-and-jdk-version-15-for-slackware-122-and-current-for-that-matter/
-categories:
+tags:
   - Projects
 
 ---

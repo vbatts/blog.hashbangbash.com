@@ -4,9 +4,9 @@ author: vbatts
 layout: post
 date: 2009-01-03T20:00:04+00:00
 url: /2009/01/kde-4185-and-soon-kde-4187-for-slackware-currenttesting/
-categories:
-  - Community
-  - Linux
+tags:
+  - community
+  - linux
   - slackware
 
 ---

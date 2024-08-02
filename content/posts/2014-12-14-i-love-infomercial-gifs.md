@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2014-12-14T03:36:47+00:00
 url: /2014/12/i-love-infomercial-gifs/
-categories:
+tags:
   - Linux
 tags:
   - docker

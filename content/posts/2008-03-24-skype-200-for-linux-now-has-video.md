@@ -4,7 +4,7 @@ author: vbatts
 layout: post
 date: 2008-03-24T23:43:49+00:00
 url: /2008/03/skype-200-for-linux-now-has-video/
-categories:
+tags:
   - ISV
   - Linux
 

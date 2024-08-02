@@ -7,7 +7,7 @@ url: /2011/02/more-red-black-tree-but-a-little-ruby-benchmarking/
 aktt_notify_twitter:
   - no
   - no
-categories:
+tags:
   - Projects
 tags:
   - performance
