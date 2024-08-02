@@ -2,7 +2,7 @@
 
   <div class="content container">
     <ul id="tags">
-        {{ range $key, $taxonomy := .Site.Taxonomies.categories.ByCount }}
+        {{ range $key, $taxonomy := .Site.Taxonomies.tags.ByCount }}
         <li>{{ $taxonomy.Term }} ({{ $taxonomy.Count }})
         <ul>  
           {{ range $taxonomy.Pages.ByDate.Reverse }}

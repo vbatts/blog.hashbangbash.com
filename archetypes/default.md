@@ -3,6 +3,6 @@ title = '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 Description = ""
 draft = true
 date = '{{ .Date }}'
-Tags = []
+tags = []
 menu = "posts"
 +++
