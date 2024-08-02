@@ -22,14 +22,6 @@ copyright = "Vincent Batts"
   animateStyle = "animated zoomIn fast" 
   titleCutting = true
 
-[[params.social]]
-  name = 'github'
-  url = 'https://github.com/vbatts'
-
-[[params.social]]
-  name = 'mastodon'
-  url = 'https://fosstodon.org/@vbatts'
-
 [[params.navlinks]]
   name = "$HOME"
   pre = "<i class='fa fa-download'></i>"
