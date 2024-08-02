@@ -19,6 +19,8 @@ copyright = "Vincent Batts"
   title = '#!bash blog'
   description = 'a place for passing fancies'
   custom_css = ["css/override.css"]
+  animateStyle = "animated zoomIn fast" 
+  titleCutting = true
 
 [[params.social]]
   name = 'github'
@@ -28,23 +30,20 @@ copyright = "Vincent Batts"
   name = 'mastodon'
   url = 'https://fosstodon.org/@vbatts'
 
-[[menu.main]]
-  name = "Article Tags"
-  pre = "<i class='fa fa-download'></i>"
-  url = "/tags"
-  weight = -400
-
-[[menu.main]]
-  name = "Home"
+[[params.navlinks]]
+  name = "$HOME"
   pre = "<i class='fa fa-download'></i>"
   url = "https://hashbangbash.com/"
-  weight = -300
 
-[[menu.main]]
-  name = "about"
+[[params.navlinks]]
+  name = "posts/"
   pre = "<i class='fa fa-download'></i>"
-  url = "https://github.com/vbatts/me"
-  weight = -200
+  url = "posts/"
+
+[[params.navlinks]]
+  name = "tags/"
+  pre = "<i class='fa fa-download'></i>"
+  url = "tags/"
 
 [markup]
   [markup.goldmark]
