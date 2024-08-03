@@ -285,3 +285,136 @@ figure {
     	font-size: var(--global-footer-font-size);
     }
 }
+
+.mastodon-comment {
+    background-color: var(--body-background);
+    border-radius: var(--card-border-radius);
+    padding: var(--card-padding);
+    margin-bottom: 1rem;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    flex-grow: 2;
+
+    .comment {
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+        flex-wrap: true;
+    }
+
+    .comment-avatar img {
+        width: 8%;;
+    }
+
+    .content {
+        flex-grow: 2;
+    }
+
+    .comment-author {
+        display: flex;
+        flex-direction: column;
+
+        &-name {
+            font-weight: bold;
+            a {
+                display: flex;
+                align-items: center;
+            }
+        }
+
+        &-date {
+            margin-left: auto;
+        }
+    }
+
+    .disabled {
+        color: var(--accent-color)
+    }
+}
+
+.comment-level {
+    #max-width: 3rem;
+    #min-width: 3rem;
+}
+
+.reply-original {
+    display: none;
+}
+
+.mastodon-wrapper {
+    display: flex;
+    gap: 3rem;
+    flex-direction: row;
+}
+
+.mastodon-comment-content p:first-child {
+    margin-top: 0;
+}
+
+.button, button {
+    padding: 1rem;
+    border-radius: 4px;
+    border-width: 0;
+    background-color: var(--code-background-color);
+
+    &:hover {
+        background-color: var(--body-background);
+    }
+}
+
+.mastodon {
+  --dlg-bg: #282c37;
+  --dlg-w: 600px;
+  --dlg-color: #9baec8;
+  --dlg-button-p: 0.75em 2em;
+  --dlg-outline-c: #00D9F5;
+}
+
+.copypaste {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  input {
+    display: block;
+    font-family: inherit;
+    background: #17191f;
+    border: 1px solid #8c8dff;
+    color: #9baec8;
+    border-radius: 4px;
+    padding: 6px 9px;
+    line-height: 22px;
+    font-size: 14px;
+    transition: border-color .3s linear;
+    flex: 1 1 auto;
+    overflow: hidden;
+  }
+
+  .button {
+    border: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 22px;
+    overflow: hidden;
+    padding: 7px 18px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: auto;
+    background-color: #232730;
+    &:hover {
+      background-color: #16181e;
+    }
+  }
+}
+
