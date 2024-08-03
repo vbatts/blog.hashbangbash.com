@@ -21,6 +21,7 @@ copyright = "Vincent Batts"
   custom_css = ["css/override.css"]
   animateStyle = "animated zoomIn fast" 
   titleCutting = true
+  mastodon = "https://fosstodon.org/@vbatts"
 
 [[params.navlinks]]
   name = "$HOME"
