@@ -14,7 +14,7 @@ menu: posts
 comments:
   host: fosstodon.org
   username: vbatts
-  id: null
+  id: 113029851546051435
 categories:
   - hardware
 description: a 'simple' look for my next personal computer
