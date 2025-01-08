@@ -33,25 +33,25 @@
 :root {
     --global-font-size: medium;
     --global-footer-font-size: x-small;
-    --global-font-color: #E58F48;
+/*     --global-font-color: #E58F48;
     --font-color: #E58F48;
     --invert-font-color: #151515;
-    /*--primary-color: #8B531E;*/
+    --primary-color: #8B531E;
     --secondary-color: #9E039A;
-    --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+ */    --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
     --page-width: 70em;
     --display-h1-decoration: 1;
-    --global-bg-color: #32253C;
+/*     --global-bg-color: #32253C;
     --code-bg-color: #32253C;
-}
+ */}
 
 @media only screen and (max-width: 850px) {
     :root {
         --global-font-size: 14px;
-        --global-font-color: #E58F48;
-        --global-line-height: 1.6em;
+/*         --global-font-color: #E58F48;
+ */        --global-line-height: 1.6em;
         --page-width: 70em;
     }
 }
@@ -63,10 +63,10 @@
     font-weight: 400;
 }
 
-.box-masonry .box-masonry-image {
+/* .box-masonry .box-masonry-image {
     background: #fff;
 }
-
+ */
 .box-masonry,
 .box-masonry:hover {
     box-shadow: none;
@@ -103,11 +103,11 @@ h1 {
     margin-bottom: 150px;
 }
 
-.content-column-content p,
+/* .content-column-content p,
 .content-column-content li {
     color: #666;
 }
-
+ */
 .btn-ghost {
     color: #666;
     background-color: transparent;
